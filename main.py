@@ -299,8 +299,8 @@ TestAccuracy       = str(GetErms(TEST_OUT,TestDataAct))
 # In[160]:
 
 
-print ('UBITname      = areebudd')
-print ('Person Number = 50289734')
+print ('UBITname      = *****')
+print ('Person Number = *****')
 print ('----------------------------------------------------')
 print ("------------------LeToR Data------------------------")
 print ('----------------------------------------------------')
